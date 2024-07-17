@@ -81,7 +81,10 @@
     font-size: 20px;
 }
 
-
+.text-danger{
+    /* background-color: rgb(124, 135, 145);
+    width: 100%;
+} */
 
 /* @media screen and (max-width:756px) {
     .main-text{
